@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Nombres y Apellidos \[No. Control]; correo institucional
+Ernesto Jáuregui Bogarin \ 23212203; L23212203@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
