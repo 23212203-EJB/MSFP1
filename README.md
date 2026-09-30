@@ -2,7 +2,7 @@
 
 # Práctica 1: Diseño de controladores para un sistema de segundo orden
 
-## Información de la estudiante
+## Información del estudiante
 
 Ernesto Jáuregui Bogarin \ 23212203; L23212203@tectijuana.edu.mx
 
